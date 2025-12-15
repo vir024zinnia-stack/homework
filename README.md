@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24165116/README.md)
 综合项目实践：商品销售数据分析
 作者：[学号2024314309] [姓名王紫涵]
 项目背景：数字素养 - 综合项目实践
